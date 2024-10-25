@@ -1,0 +1,42 @@
+Website URL: https://a-ravioli.github.io
+
+Styling & Customizations:
+
+1. Fonts:
+   - Imported and used 'Inter' and 'Comfortaa' fonts
+
+2. Colors:
+   - Made a foresty custom color palette using CSS to match the solarpunk theme:
+     - Primary color: #2c5e1a (Dark forest green)
+     - Secondary color: #4a7c59 (Medium forest green)
+     - Background color: #f0f7ed (Light sage green)
+     - Text color: #333333 (Dark gray)
+     - Accent color: #8b4513 (Brown)
+
+3. Layout/Spacing:
+   - Made layout responsive using flexbox and grid
+   - Max-width container (1200px)
+
+4. Header:
+   - Made a header with rounded corners and box shadow
+   - Created two header styles: thick and thin, thick for home and thin for other pages
+
+5. Navigation:
+   - Styled navigation links as buttons with hover effects
+   - Added smooth scrolling for the anchor links, research and contact
+
+6. Cards:
+   - Made custom cards for research projects
+   - Added hover effects (elevation and transform)
+   - Implemented staggered animation for the card's appearance
+
+7. Images:
+   - Styled profile and solarpunk images with rounded corners and borders
+   - Added box shadow to images for depth
+
+8. Animations:
+   - Fade-in and slide-in animations for a lot of elements
+   - Custom keyframe animations for smooth transitions
+
+9. Footer:
+    - Styled the footer with a top border and centered text
